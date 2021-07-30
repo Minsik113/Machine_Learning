@@ -1,8 +1,8 @@
 ## Notice 
 - **to study machine learning** 
 - clone coding 
-- 참고한 깃허브 https://github.com/pilsung-kang/multivariate-data-analysis
-
+- 참고한 깃허브: https://github.com/pilsung-kang/multivariate-data-analysis
+- 정리한 notion 주소: [클릭](https://fluorescent-bait-c17.notion.site/Koread-Univ-2021-07-30-a1bc47f6ccd04f40abc12799d5bde12a)
 
 ## multivariate-data-analysis
 Multivariate data analysis @Korea University (Undergraduate)
